@@ -1,0 +1,10 @@
+SRAMreadmanualdatawithmirror-mode1ataddress:100length:5
+Settingmirrormode:1
+SRAMManualRead:
+0:255
+1:255
+2:25
+3:255
+4:211
+===============================================================================
+Alltestspassed(5assertionsin28testcases)
